@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DostoKaSrever.aternos.me",
+    "ip": "DostoKaServer.aternos.me",
     "port": 34819,
     "version": "1.21.1"
   },
